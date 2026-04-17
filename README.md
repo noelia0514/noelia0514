@@ -1,24 +1,134 @@
 
-# ¡Hola! Soy Noelia Griselda Fleitas 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Noelia%20Fleitas&fontSize=40&fontColor=ffffff"/>
+</p>
 
-### 👩‍💻 Sobre mí
-- 🎓 **Estudiante avanzada de Analista Programador**.
-- )🚀 Orientada al desarrollo **Backend con tecnologías .NET (C#)**.
-- 💡 Experiencia en **Programación Orientada a Objetos (POO)** y bases de datos.
-- 🗣️ **Portugués Intermedio** (habla fluida) e **Inglés Técnico**.
-- 📍 Guernica, Buenos Aires.
+# 👋 ¡Hola! Soy Noelia Fleitas  
 
-### 🛠️ Tecnologías y Herramientas
-- **Backend:** C#, .NET Framework, SQL Server (T-SQL).
-- **Frontend:** HTML5, CSS3, Blazor y Razor Components.
-- **Herramientas:** Git, GitHub, Visual Studio y SSMS.
-
-### 📂 Proyectos Destacados
-- **[☕ Blog de Café](https://noelia0514.github.io/blog-de-cafe/)**: Sitio web responsivo con estructura semántica.
-- **🖥️ Sistema ABM de Clientes**: Aplicación de consola en C# con estructura modular.
-- **🌐 App Web con Blazor**: Interfaces dinámicas (en desarrollo).
+<p align="center">
+💻 Estudiante de Programación | .NET & SQL  
+🚀 Buscando mi primera oportunidad en IT  
+</p>
 
 ---
-📫 **Contacto**
-- **)LinkedIn:** [linkedin.com/in/noelia-griselda-fleitas](https://linkedin.com/in/noelia-griselda-fleitas)
-- **Email:** noelia_142006@hotmail.com
+
+## 👩‍💻 Sobre mí  
+
+🎓 Estudiante avanzada de Análisis de Programación  
+💡 Interesada en desarrollo backend con C# y bases de datos  
+🧠 Conocimientos en Programación Orientada a Objetos (POO)  
+📍 Guernica, Buenos Aires  
+
+---
+
+## 🚀 Tecnologías  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,visualstudio"/>
+</p>
+
+---
+
+## 📌 Proyectos  
+
+🔗 Blog de Café  
+👉 https://noelia0514.github.io/blog-de-cafe/  
+
+💻 Sistema ABM de Clientes  
+✔️ Aplicación en C# con lógica modular  
+
+🌐 App Web con Blazor (en desarrollo)  
+
+---
+
+## 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noelia0514&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contacto  
+
+<p align="center">
+
+<a href="mailto:noelia_142006@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Noelia%20Fleitas&fontSize=40&fontColor=ffffff"/>
+</p>
+
+# 👋 ¡Hola! Soy Noelia Fleitas  
+
+<p align="center">
+💻 Estudiante de Programación | .NET & SQL  
+🚀 Buscando mi primera oportunidad en IT  
+</p>
+
+---
+
+## 👩‍💻 Sobre mí  
+
+🎓 Estudiante avanzada de Análisis de Programación  
+💡 Interesada en desarrollo backend con C# y bases de datos  
+🧠 Conocimientos en Programación Orientada a Objetos (POO)  
+📍 Guernica, Buenos Aires  
+
+---
+
+## 🚀 Tecnologías  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,visualstudio"/>
+</p>
+
+---
+
+## 📌 Proyectos  
+
+🔗 Blog de Café  
+👉 https://noelia0514.github.io/blog-de-cafe/  
+
+💻 Sistema ABM de Clientes  
+✔️ Aplicación en C# con lógica modular  
+
+🌐 App Web con Blazor (en desarrollo)  
+
+---
+
+## 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noelia0514&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contacto  
+
+<p align="center">
+
+<a href="mailto:TUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="linkedin.com/in/noelia-griselda-fleitas">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+✨ En constante aprendizaje y crecimiento en el mundo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+✨ En constante aprendizaje y crecimiento en el mundo
