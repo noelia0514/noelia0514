@@ -111,16 +111,23 @@
 
 <p align="center">
 
-<a href="mailto:TUEMAIL@gmail.com">
+<a href="mailto:noelia_142006@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/noelia-griselda-fleitas">
+<a href="https://linkedin.com/in/noelia-griselda-fleitas" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+<p align="center">
+✨ En constante aprendizaje y crecimiento en el mundo IT
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Noelia%20Fleitas&fontSize=40&fontColor=ffffff"/>
+</p>
 ---
 
 ✨ En constante aprendizaje y crecimiento en el mundo">
