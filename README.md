@@ -128,14 +128,4 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Noelia%20Fleitas&fontSize=40&fontColor=ffffff"/>
 </p>
----
 
-✨ En constante aprendizaje y crecimiento en el mundo">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-✨ En constante aprendizaje y crecimiento en el mundo
