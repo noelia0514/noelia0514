@@ -40,4 +40,11 @@
 🌐 App Web con Blazor (en desarrollo)  
 
 ---
+---
+
+## 📩 Contacto
+
+- **Email:** [noelia_142006@hotmail.com](mailto:noelia_142006@hotmail.com)
+- **LinkedIn:** [noelia-griselda-fleitas](https://linkedin.com/in/noelia-griselda-fleitas)
+- **Idiomas:** Portugués (Fluido) 🇧🇷 | Inglés (Técnico) 🇺🇸
 
